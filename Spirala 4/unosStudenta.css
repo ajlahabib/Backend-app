@@ -1,0 +1,17 @@
+#odgovor1{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 16px;
+  color: green;
+}
+#odgovor2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 16px;
+    color: red;
+}
+body {
+    background-color: lightgray;
+}
+h1{
+    font-size: 32px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
